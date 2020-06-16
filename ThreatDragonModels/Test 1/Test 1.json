@@ -1,6 +1,7 @@
 {
   "summary": {
-    "title": "Test 1"
+    "title": "Test 1",
+    "owner": "Mark"
   },
   "detail": {
     "contributors": [],
