@@ -45,13 +45,14 @@
                 "height": 100
               },
               "position": {
-                "x": 424,
-                "y": 207
+                "x": 425,
+                "y": 206
               },
               "angle": 0,
               "id": "ac82ba2f-9bd6-4b57-944c-c5ff2e9e90e7",
               "z": 2,
               "hasOpenThreats": false,
+              "privilegeLevel": "High",
               "attrs": {
                 ".element-shape": {
                   "class": "element-shape hasNoOpenThreats isInScope"
